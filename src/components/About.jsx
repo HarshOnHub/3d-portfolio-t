@@ -2,7 +2,7 @@ import React from 'react';
 import { Tilt } from 'react-tilt' ;
 // To tilt the cards :P
 import { motion } from 'framer-motion';
-import { styles } from '../style';
+import { styles } from '../../style';
 import { services } from '../constants'; 
 import { fadeIn, textVariant } from '../utils/motion';
 
